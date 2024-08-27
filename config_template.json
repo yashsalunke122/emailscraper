@@ -1,0 +1,8 @@
+{
+    "username_name": "session_key",
+    "password_name": "session_password",
+    "sign_in_button_xpath": "//button[@aria-label='Sign in']",
+    "linkedin_username": "Email/Username",
+    "linkedin_password": "Password"
+  }
+  
